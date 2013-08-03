@@ -1,0 +1,27 @@
+/* Foundation v2.2 http://foundation.zurb.com */
+/* This is for all IE specfific style less than IE9. We hate IE. */
+
+	div.panel { border: 1px solid #ccc; }
+	.lt-ie8 .nav-bar li.has-flyout a { padding-right: 20px; }
+	.lt-ie8 .nav-bar li.has-flyout a:after { border-top: none; }
+	
+	/* Correct IE7 button padding */
+	.lt-ie8 input[type=submit].nice.button { filter:chroma(color=#000000); position: relative; top: -2px; }
+	.lt-ie8 input[type=submit].tiny.button		{ padding: 5px 5px 7px; }
+	.lt-ie8 input[type=submit].small.button		{ padding: 8px 7px 9px; }
+	.lt-ie8 input[type=submit].medium.button	{ padding: 9px 13px 9px; }
+	.lt-ie8 input[type=submit].large.button		{ padding: 9px 18px 10px; }
+
+	.lt-ie8 .nav_col { width: 60%;}
+	/*.lt-ie8 .main-container .service-block .service-content { width: 20%;}
+	.lt-ie8 .row .six { width: 49%;}
+	.lt-ie8 .row .four { width: 31.33%;}
+	.lt-ie8 .footer-container .footer-content { width: 22%;}
+	.lt-ie8 div.orbit {width: 960px; margin: 0 auto} */
+	
+	
+	/*.lt-ie9 .nav-content.columns { float: right;}
+	.lt-ie9 .main-container .main-content .four .who-img { right: 5px;}
+	.lt-ie9 ul.tabs.vertical li.active a { font-weight: bold; text-shadow: none;}
+	.lt-ie9 ul.tabs.vertical li a { font-weight: bold; text-shadow: none;} 
+	.lt-ie9 .main-content .tabs-content li .process-content ul li {	width: 24.5%; background: none }*/
